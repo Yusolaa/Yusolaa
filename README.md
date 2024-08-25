@@ -8,9 +8,9 @@
 
 - 🌱 I’m currently learning **React Js**
 
-- 💬 Ask me about **Technology**
+- 💬 Ask me about **Tech**
 
-- ⚡ Fun fact **I'M A NERD!**
+- ⚡ Fun fact **Assertive!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
